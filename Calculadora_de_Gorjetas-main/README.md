@@ -42,4 +42,4 @@ O projeto foi construído utilizando as seguintes tecnologias:
  
 Feito por Rikelme Lopes🐱‍👤 https://github.com/RikelmePalace.
 
-Link: https://calculadora-de-gorjetas-chi.vercel.app/
+Link: https://calculadora-de-gorjetas-seven.vercel.app
