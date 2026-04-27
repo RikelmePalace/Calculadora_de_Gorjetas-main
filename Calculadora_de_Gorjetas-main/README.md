@@ -38,9 +38,7 @@ O projeto foi construído utilizando as seguintes tecnologias:
     ```
 2.  **Abra o arquivo `index.html`:**
     Navegue até a pasta do projeto e abra o arquivo `index.html` no seu navegador de preferência.
- 
-Pronto! Agora você já pode usar a calculadora.
- 
 ---
  
-Feito com ❤️ por Rikelme Lopes https://github.com/RikelmePalace.
+Feito por Rikelme Lopes🐱‍👤 https://github.com/RikelmePalace.
+Link: https://calculadora-de-gorjetas-chi.vercel.app/
