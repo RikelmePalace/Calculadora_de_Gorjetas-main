@@ -1,8 +1,5 @@
 # Calculadora de Gorjetas 💸
- 
-[![Readme Card](file:///C:/Users/BabyBeef/Downloads/Captura%20de%20tela%202026-04-27%20014203.png)](#)
-[![Readme Card] <img width="918" height="602" alt="image" src="https://github.com/user-attachments/assets/4e21edc6-2391-4ad3-877b-a8b06b579e1f" />
-
+ <img width="535" height="441" alt="image" src="https://github.com/user-attachments/assets/f2143ccc-6d8d-4698-8a6b-fcee30d921cb" />
  
 Uma calculadora de gorjetas simples, elegante e funcional para calcular rapidamente o valor total de uma conta, incluindo uma gorjeta padrão de 10%.
  
