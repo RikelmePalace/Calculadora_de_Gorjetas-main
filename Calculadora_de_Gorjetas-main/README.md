@@ -1,6 +1,6 @@
 # Calculadora de Gorjetas 💸
  
-[![Readme Card](https://img.shields.io/badge/Projeto-Calculadora%20de%20Gorjetas-brightgreen)](#)
+[![Readme Card](file:///C:/Users/BabyBeef/Downloads/Captura%20de%20tela%202026-04-27%20014203.png)](#)
 [![Readme Card] <img width="918" height="602" alt="image" src="https://github.com/user-attachments/assets/4e21edc6-2391-4ad3-877b-a8b06b579e1f" />
 
  
